@@ -1,0 +1,7 @@
+mail
+www
+blog
+localhost
+ftp
+smtp
+dev
